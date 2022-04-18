@@ -1,0 +1,8 @@
+C:\Users\bjoern.letmade\source\repos\HalloWeltBeispiel\HalloWeltBeispiel\bin\Debug\HalloWeltBeispiel.exe.config
+C:\Users\bjoern.letmade\source\repos\HalloWeltBeispiel\HalloWeltBeispiel\bin\Debug\HalloWeltBeispiel.exe
+C:\Users\bjoern.letmade\source\repos\HalloWeltBeispiel\HalloWeltBeispiel\bin\Debug\HalloWeltBeispiel.pdb
+C:\Users\bjoern.letmade\source\repos\HalloWeltBeispiel\HalloWeltBeispiel\obj\Debug\HalloWeltBeispiel.csproj.AssemblyReference.cache
+C:\Users\bjoern.letmade\source\repos\HalloWeltBeispiel\HalloWeltBeispiel\obj\Debug\HalloWeltBeispiel.csproj.SuggestedBindingRedirects.cache
+C:\Users\bjoern.letmade\source\repos\HalloWeltBeispiel\HalloWeltBeispiel\obj\Debug\HalloWeltBeispiel.csproj.CoreCompileInputs.cache
+C:\Users\bjoern.letmade\source\repos\HalloWeltBeispiel\HalloWeltBeispiel\obj\Debug\HalloWeltBeispiel.exe
+C:\Users\bjoern.letmade\source\repos\HalloWeltBeispiel\HalloWeltBeispiel\obj\Debug\HalloWeltBeispiel.pdb
